@@ -19,13 +19,13 @@ This project explores interactive fluid dynamics, smooth advection, and visually
 
 ## 🖼️ Screenshots
 
-### Blue Fluid Flow
+### Yellow Energy Burst
 ![Blue Fluid](screenshots/Screenshot1.png)
 
 ### Purple / White Flow Interaction
 ![Purple Fluid](screenshots/Screenshot2.png)
 
-### Yellow Energy Burst
+### Blue Fluid Flow
 ![Yellow Fluid](screenshots/Screenshot3.png)
 
 ---
