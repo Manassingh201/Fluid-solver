@@ -24,6 +24,12 @@
     <ClInclude Include="Dependencies\include\GLFW\glfw3native.h" />
     <ClInclude Include="Dependencies\include\KHR\khrplatform.h" />
     <ClInclude Include="Dependencies\include\stb\stb_image.h" />
+    <ClInclude Include="src\Application.h" />
+    <ClInclude Include="src\FluidSimulation.h" />
+    <ClInclude Include="src\InputHandler.h" />
+    <ClInclude Include="src\Quad.h" />
+    <ClInclude Include="src\Shader.h" />
+    <ClInclude Include="src\ShaderSources.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="assets\fragment_core.glsl" />
@@ -32,8 +38,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="lib\stb.cpp" />
+    <ClCompile Include="src\Application.cpp" />
+    <ClCompile Include="src\FluidSimulation.cpp" />
     <ClCompile Include="src\glad.c" />
+    <ClCompile Include="src\InputHandler.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Quad.cpp" />
+    <ClCompile Include="src\Shader.cpp" />
     <ClCompile Include="src\stb_image.h" />
   </ItemGroup>
   <ItemGroup>
